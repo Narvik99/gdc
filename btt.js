@@ -3,6 +3,7 @@ const person = {
   firstName: "John",
   lastName: "Doe",
   language: "en",
+  language: "fa",
   get lang() {
     return this.language;
   }
