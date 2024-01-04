@@ -1,8 +1,8 @@
 // Create an object:
 const person = {
   firstName: "John",
-  lastName: "Doe",
-  language: "en",
+  lastName: "Doee",
+  language: "een",
   language: "fa",
   get lang() {
     return this.language;
