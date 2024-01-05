@@ -10,4 +10,4 @@ const person = {
 };
 
 // Display data from the object using a getter:
-document.getElementById("demo").innerHTML = person.lang;
+document.getElementById("demo").innerHTML = person.lang0x;
