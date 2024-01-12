@@ -4,7 +4,7 @@ const person = {
   lastName: "Doee",
     lastwName: "Doee",
   language: "een",
-  language: "farsi",
+  language: "fasi",
   get lang() {
     return this.language;
   }
