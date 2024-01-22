@@ -2,7 +2,7 @@
 const person = {
   firstName: "Joohn",
   lastName: "Do",
-    lastwName: "Dee",
+    lastwName: "De",
   language: "en",
   language: "fasi",
   get lang() {
