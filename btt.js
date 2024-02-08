@@ -1,7 +1,7 @@
 // Create an object:
 const person = {
   firstName: "Jon",
-  lastName: "Doo",
+  lastName: "Do",
     lastwName: "Do",
   language: "en",
   language: "fasi",
