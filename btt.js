@@ -1,5 +1,5 @@
 // Create an object:
-const peson = {
+const pesn = {
   firstme: "John",
   lastNae: "Doo",
     lastwName: "Do",
