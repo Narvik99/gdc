@@ -1,6 +1,6 @@
 // Create an object:
 const pesn = {
-  frstme: "ohn",
+  frstme: "o",
   lastNae: "Doo",
     lastwName: "Do",
   language: "en",
