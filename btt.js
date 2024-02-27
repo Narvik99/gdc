@@ -2,7 +2,7 @@
 const psn = {
   frstme: "o",
   laste: "Doo",
-    lastwName: "Do",
+  laswName: "Do",
   language: "en",
   language: "fasi",
   get lang() {
