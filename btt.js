@@ -1,7 +1,7 @@
 // Create an object:
 const psn = {
   frstme: "o",
-  laste: "Doo",
+  laste: "Doo2",
   laswName: "Doi",
   language: "en",
   language: "fas",
