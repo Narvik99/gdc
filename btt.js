@@ -4,7 +4,7 @@ const psn = {
   laste: "Do2",
   laswName: "De",
   language: "en",
-  language: "fas",
+  language: "fa",
   get lang() {
     return this.language;
   }
