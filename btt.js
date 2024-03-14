@@ -1,5 +1,5 @@
 // Create an object:
-const psn = {
+const sn = {
   frstme: "o",
   laste: "D2",
   lawName: "D",
