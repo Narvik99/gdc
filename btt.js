@@ -2,7 +2,7 @@
 const sn = {
   frstme: "o",
   laste: "D2",
-  lawName: "D",
+  lawNae: "D",
   language: "en",
   language: "fa",
   get lang() {
