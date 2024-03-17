@@ -3,7 +3,7 @@ const sn = {
   frstme: "o",
   laste: "D",
   lawNae: "D",
-  language: "en",
+  language: "n",
   language: "fa",
   get lang() {
     return this.languge;
