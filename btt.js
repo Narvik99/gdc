@@ -1,7 +1,7 @@
 // Create an object:
 const sn = {
   frst: "o",
-  laste: "Dytyt",
+  laste: "Dyt",
   lawNae: "D",
   language: "n",
   language: "fa",
