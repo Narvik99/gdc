@@ -6,7 +6,7 @@ const sn = {
   laguage: "n",
   language: "fa",
   get lang() {
-    return this.lanuge;
+    return this.lange;
   }
 };
 
